@@ -1,7 +1,7 @@
 # Regex-Tutorial
-```
+
 This homework assignment is to create a tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does.
-```
+
 
 ## Acceptance Criteria 
 ```
@@ -16,8 +16,10 @@ WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 ```
 # Summary
-
+For my assignment I will explain the following regular expression: 
+```
 Matching an Email &ndash; `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
+```
 
 ## Table of Contents
 
